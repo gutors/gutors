@@ -25,7 +25,7 @@ I recently travelled to SouthEast Asia for the last 2 years, and during that tim
 
 ## Contact
 
-LinkedIn: [Frank Moley](https://linkedin.com/in/gustavo-schmid-jesus)
+LinkedIn: [Gustavo Schmid de Jesus](https://linkedin.com/in/gustavo-schmid-jesus)
 
 <!--
 **gutors/gutors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
