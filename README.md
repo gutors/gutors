@@ -3,7 +3,7 @@ My name is Gustavo Schmid de Jesus, I'm a software engineer with passion for bui
 
 I'm a Brazilian currently living at Maceió city, right next to the beach!
 
-Ex companies: Procempa, NSCAD, Mconf
+Ex companies: GrowthStrategyDigital, Procempa, NSCAD, Mconf
 
 ## About Me
 I have most of my experience working with Java applications for the public sector of my hometown city Porto Alegre.
